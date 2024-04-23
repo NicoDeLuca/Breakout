@@ -36,13 +36,13 @@ Grafiken: Kai De Luca
 ## Screenshots
 
 ###### Screenshot 1: Startbildschirm mit Erklärung wie das Spiel zu steuern ist.
-![screenshot_01.png](src/main/Pictures/screenshot_01.png)
+![screenshot_01.png](src/Pictures/screenshot_01.png)
 
 ###### Screenshot 2: Der Screenshot zeigt wie es aussieht wenn man im Spiel ist und auch eins der Items aktiv ist.
-![screenshot_02.png](src/main/Pictures/screenshot_02.png)
+![screenshot_02.png](src/Pictures/screenshot_02.png)
 
 ###### Screenshot 3: Hier sieht man wie der Spieler mehrere Bälle auf dem Spielfeld hat und ein Item gerade zum einsammeln runter fällt.
-![screenshot_03.png](src/main/Pictures/screenshot_03.png)
+![screenshot_03.png](src/Pictures/screenshot_03.png)
 
 
 ## Notwendige Schritte um das Spiel zu starten
